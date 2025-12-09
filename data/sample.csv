@@ -1,0 +1,17 @@
+id,name,age,salary,department,years_experience
+1,John Smith,28,55000,Engineering,3
+2,Jane Doe,32,72000,Marketing,7
+3,Bob Johnson,45,95000,Engineering,15
+4,Alice Williams,29,58000,Sales,4
+5,Charlie Brown,38,68000,Marketing,10
+6,John Smith,28,55000,Engineering,3
+7,Diana Prince,35,82000,Engineering,12
+8,Frank Miller,42,88000,Sales,18
+9,Grace Lee,31,65000,Marketing,6
+10,Henry Davis,27,52000,Engineering,2
+11,John Smith,28,55000,Engineering,3
+12,Iris Wilson,39,75000,Sales,11
+13,Jack Taylor,33,70000,Marketing,8
+14,Karen Moore,41,91000,Engineering,16
+15,Louis Anderson,36,78000,Sales,13
+
